@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ademir-silva-38a8bb189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ademir-silva-38a8bb189/" height="30" width="40" /></a>
-<a aria-label="Chat on WhatsApp" href="https://wa.me/5511966217948"><img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" />
+<a aria-label="Chat on WhatsApp" href="https://wa.me/5511966217948"><img alt="Chat on WhatsApp" src="[WhatsAppButtonGreenLarge.png](https://www.designi.com.br/images/preview/10000403.jpg)" />
 <a />
 <a href="https://fb.com/https://www.facebook.com/ademir.silvajunior.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ademir.silvajunior.5" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ademirsilvajunior/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ademirsilvajunior/" height="30" width="40" /></a>
