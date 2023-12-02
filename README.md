@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Java, JavaScript, Programacao Web, CSS, HTML, Ingles.**
 
-- 👯 Tambem estou fazendo cursos na Data Science Academy, Microsoft, Sololearn, Duolingo [Aprimoramentos](https://www.datascienceacademy.com.br/) [DataScienceAcadey](https://www.datascienceacademy.com.br/)
+- 👯 Tambem estou fazendo cursos na Data Science Academy, Microsoft, Sololearn, Duolingo [DataScienceAcademy](https://www.datascienceacademy.com.br/) [Microsoft Learn](https://learn.microsoft.com/pt-br/) [SoloLearn](https://www.sololearn.com/) [Duoling](https://pt.duolingo.com/)
 
 - 💬 Me pergunte Sobre **Transição para Ciência de Dados, Iniciando Programacao WEB, POO, JavaScript, Controle de Qualidade, Análises Laboratoriais, Normas Regulatórias, Boas Práticas de Fabricação e Laboratório, Auditorias e Experiência Multifacetada na Indústria Química e Farmaceutica**
 
