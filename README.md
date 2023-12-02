@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Ademir Silva Junior</h1>
 <h3 align="center">"Profissional experiente em controle de qualidade e análises laboratoriais, agora apaixonado por Ciência de Dados e explorando novos horizontes na interpretação e análise de dados."</h3>
 
-- 🔭 Atualmente sou estudante de Analise e Desenvolvimento de Sistemas [Segunda Graduacao](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/)
+- 🔭 Atualmente sou estudante de Analise e Desenvolvimento de Sistemas [Universidade Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/)
 
 - 🌱 Atualmente estou aprendendo **Java, JavaScript, Programacao Web, CSS, HTML, Ingles.**
 
