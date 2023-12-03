@@ -5,17 +5,14 @@
 
 - 🌱 Atualmente estou aprendendo **Java, JavaScript, Programacao Web, POO, CSS, HTML, Ingles.**
 
-- 👯 Tambem estou fazendo cursos na Data Science Academy, Microsoft, Sololearn, Duolingo
-- [DataScienceAcademy](https://www.datascienceacademy.com.br/)<br>
-- [Microsoft Learn](https://learn.microsoft.com/pt-br/)<br>
-- [SoloLearn](https://www.sololearn.com/)<br>
-- [Duolingo](https://pt.duolingo.com/)<br>
+- 👯 Tambem estou fazendo cursos na [DataScienceAcademy](https://www.datascienceacademy.com.br/), [Microsoft Learn](https://learn.microsoft.com/pt-br/), [SoloLearn](https://www.sololearn.com/), [Duolingo](https://pt.duolingo.com/).
 
-- 💬 Me pergunte Sobre 💬 **Transição para Ciência de Dados, Iniciando Programacao WEB, POO, JavaScript, Controle de Qualidade, Análises Laboratoriais, Normas Regulatórias, Boas Práticas de Fabricação e Laboratório, Auditorias e Experiência Multifacetada na Indústria Química e Farmaceutica**
+- 💬 Me pergunte Sobre 💬 <br> 
+**Transição para Ciência de Dados, Iniciando Programacao WEB, POO, JavaScript, Controle de Qualidade, Análises Laboratoriais, Normas Regulatórias, Boas Práticas de Fabricação e Laboratório, Auditorias e Experiência Multifacetada na Indústria Química e Farmaceutica**
 
 - 📫 Voce me acha atraves do e-mail 📫 **ademir_silva_junior@hotmail.com**
 
-- 📄 "Conheça sobre as minhas experiências [https://www.linkedin.com/in/ademir-silva-38a8bb189/](https://www.linkedin.com/in/ademir-silva-38a8bb189/)
+- 📄 "Conheça sobre as minhas experiências [Curriculo Lnkedin](https://www.linkedin.com/in/ademir-silva-38a8bb189/)
 
 - ⚡ Fun fact ⚡ **De químico a entusiasta de dados! Transformando análises laboratoriais em insights de Ciência de Dados, sempre em busca de novos desafios e aprendizados**
 
