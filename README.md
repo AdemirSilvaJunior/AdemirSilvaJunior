@@ -1,4 +1,4 @@
-<h1 align="center">Oi <img src="https://i.pinimg.com/originals/b0/79/58/b07958865a718784622375c3be57babc.gif" width="30px">, Eu sou Ademir Silva Junior</h1>
+<h1 align="center">Oi <img src="https://i.pinimg.com/originals/f5/5c/42/f55c42fc370379c482fb863ee0a64f8c.gif" width="30px">, Eu sou Ademir Silva Junior</h1>
 <h3 align="center">"Profissional experiente em controle de qualidade e análises laboratoriais, agora apaixonado por Ciência de Dados e explorando novos horizontes na interpretação e análise de dados."</h3>
 
 - 🔭 Atualmente sou estudante de Analise e Desenvolvimento de Sistemas [Universidade Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/)
