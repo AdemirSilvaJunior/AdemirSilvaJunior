@@ -13,8 +13,8 @@
 - 📫 Voce me acha atraves do e-mail 📫 **ademir_silva_junior@hotmail.com**
 
 - 📄 "Conheça sobre as minhas experiências [Linkedin](https://www.linkedin.com/in/ademir-silva-38a8bb189/)
-- 📄 "Conheça sobre as minhas experiências [Currículo Proficional]([https://www.linkedin.com/in/ademir-silva-38a8bb189/](https://drive.google.com/file/d/1VapOB5GbB_O2l6l7SjHhDKAZElNBRcCH/view?usp=drive_link)
-- 📄 "Carta de Apresentação [Carta de Apresentação]([https://www.linkedin.com/in/ademir-silva-38a8bb189/](https://drive.google.com/file/d/1VapOB5GbB_O2l6l7SjHhDKAZElNBRcCH/view?usp=drive_link](https://drive.google.com/file/d/1oqxl99Wgf81XEJJrjeDnY54PNEIxZ0ld/view?usp=drive_link)
+- 📄 "Conheça sobre as minhas experiências [Currículo Proficional](https://drive.google.com/file/d/1VapOB5GbB_O2l6l7SjHhDKAZElNBRcCH/view?usp=drive_link)
+- 📄 "Carta de Apresentação [Carta de Apresentação](https://drive.google.com/file/d/1VapOB5GbB_O2l6l7SjHhDKAZElNBRcCH/view?usp=drive_link](https://drive.google.com/file/d/1oqxl99Wgf81XEJJrjeDnY54PNEIxZ0ld/view?usp=drive_link)
 
 - ⚡ Fun fact ⚡ **De químico a entusiasta de dados! Transformando análises laboratoriais em insights de Ciência de Dados, sempre em busca de novos desafios e aprendizados**
 
