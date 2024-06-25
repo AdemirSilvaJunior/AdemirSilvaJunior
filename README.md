@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou estudante de Analise e Desenvolvimento de Sistemas [Universidade Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas/)
 
-- 🌱 Atualmente estou aprendendo **Java, JavaScript, Programacao Web, POO, CSS, HTML, Ingles.**
+- 🌱 Atualmente estou aprendendo **Java, Python, JavaScript, Programacao Web, POO, CSS, HTML, Ingles.**
 
 - 👯 Tambem estou fazendo cursos na [Oracle/Alura](https://cursos.alura.com.br/), [Microsoft Azure](https://web.dio.me/home), [DataScienceAcademy](https://www.datascienceacademy.com.br/), [Microsoft Learn](https://learn.microsoft.com/pt-br/), [SoloLearn](https://www.sololearn.com/), [Duolingo](https://pt.duolingo.com/).
 
