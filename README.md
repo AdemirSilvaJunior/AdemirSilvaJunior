@@ -5,10 +5,12 @@
 
 - 🌱 Atualmente estou aprendendo **Java, Python, JavaScript, Programacao Web, POO, CSS, HTML, Ingles.**
 
+- 🚀 Certificados oficiais de cursos concluídos: [Todos meus certificados](https://github.com/AdemirSilvaJunior/certificados-tecnologia.git)
+
 - 👯 Tambem estou fazendo cursos na [DIO](https://web.dio.me/users/ademir_silva_junior?tab=achievements/), [Oracle/Alura](https://cursos.alura.com.br/), [Microsoft Azure](https://web.dio.me/home), [DataScienceAcademy](https://www.datascienceacademy.com.br/), [Microsoft Learn](https://learn.microsoft.com/pt-br/), [SoloLearn](https://www.sololearn.com/), [Duolingo](https://pt.duolingo.com/).
 
 - 💬 Me pergunte Sobre 💬 <br> 
-**Transição para Ciência de Dados, Iniciando Programacao WEB, POO, JavaScript, Controle de Qualidade, Análises Laboratoriais, Normas Regulatórias, Boas Práticas de Fabricação e Laboratório, Auditorias e Experiência Multifacetada na Indústria Química e Farmaceutica**
+**Transição para Ciência de Dados, Iniciando Programacao WEB, POO, JavaScript, Python, Controle de Qualidade, Análises Laboratoriais, Normas Regulatórias, Boas Práticas de Fabricação e Laboratório, Auditorias e Experiência Multifacetada na Indústria Química e Farmaceutica**
 
 - 📫 Voce me acha atraves do e-mail 📫 **ademir_silva_junior@hotmail.com**
 
